@@ -54,7 +54,7 @@ Run the application: npm start
 
 Developer Highlights
 Architecture: Focus on clean code and modular structure.
-![Uploading image.png…]()
+<img width="1912" height="892" alt="image" src="https://github.com/user-attachments/assets/2824e871-b2dd-4c5e-8c54-1900e9f09263" />
 
 
 Performance: Optimized queries to ensure fast response times even with large inventory datasets.
