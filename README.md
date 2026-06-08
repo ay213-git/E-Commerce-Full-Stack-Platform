@@ -57,11 +57,21 @@ Architecture: Focus on clean code and modular structure.
 
 Performance: Optimized queries to ensure fast response times even with large inventory datasets.
 <img width="1912" height="892" alt="image" src="https://github.com/user-attachments/assets/2824e871-b2dd-4c5e-8c54-1900e9f09263" />
-<img width="944" height="443" alt="image" src="https://github.com/user-attachments/assets/8415aabb-693d-43f7-9389-fc577636e96d" />
+<img width="956" height="445" alt="image" src="https://github.com/user-attachments/assets/b06a81a0-1f35-452a-8327-6bc6cdca02e2" />
 
 <img width="940" height="446" alt="image" src="https://github.com/user-attachments/assets/f239b3a3-8f5b-4ab5-a061-3e055463ee26" />
 <img width="941" height="434" alt="image" src="https://github.com/user-attachments/assets/55e01f0f-ca38-405d-96fb-6913f7045ef1" />
 <img width="941" height="458" alt="image" src="https://github.com/user-attachments/assets/25348e93-05a2-4018-8cba-e9c33260387c" />
+<img width="944" height="442" alt="image" src="https://github.com/user-attachments/assets/fbe89195-25ae-4dcd-aca9-007b196f310c" />
+<img width="941" height="450" alt="image" src="https://github.com/user-attachments/assets/7dedc8bd-7e8f-4619-a9ac-3a3555425e2e" />
+<img width="943" height="432" alt="image" src="https://github.com/user-attachments/assets/11439fea-3be4-4fba-8bb3-31c687682f40" />
+<img width="953" height="441" alt="image" src="https://github.com/user-attachments/assets/7abcaabd-ed92-4757-83ed-d0cf2d9c23bb" />
+
+<img width="944" height="443" alt="image" src="https://github.com/user-attachments/assets/03d0c30d-b6ee-4d09-b0f6-ecb01f6d1939" />
+
+
+
+
 
 
 
