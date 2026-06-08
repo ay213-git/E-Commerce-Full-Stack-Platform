@@ -58,6 +58,9 @@ Architecture: Focus on clean code and modular structure.
 Performance: Optimized queries to ensure fast response times even with large inventory datasets.
 <img width="935" height="427" alt="image" src="https://github.com/user-attachments/assets/428a1194-ccf5-4442-b4ec-85afbbc1d85c" />
 
+<img width="941" height="443" alt="image" src="https://github.com/user-attachments/assets/1eaa2140-9231-43bf-95b5-afe90d239356" />
+
+
 <img width="1912" height="892" alt="image" src="https://github.com/user-attachments/assets/2824e871-b2dd-4c5e-8c54-1900e9f09263" />
 
 <img width="956" height="445" alt="image" src="https://github.com/user-attachments/assets/b06a81a0-1f35-452a-8327-6bc6cdca02e2" />
