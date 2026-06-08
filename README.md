@@ -60,6 +60,7 @@ Architecture: Focus on clean code and modular structure.
 <img width="940" height="446" alt="image" src="https://github.com/user-attachments/assets/f239b3a3-8f5b-4ab5-a061-3e055463ee26" />
 <img width="941" height="434" alt="image" src="https://github.com/user-attachments/assets/55e01f0f-ca38-405d-96fb-6913f7045ef1" />
 
+<img width="941" height="458" alt="image" src="https://github.com/user-attachments/assets/25348e93-05a2-4018-8cba-e9c33260387c" />
 
 
 
